@@ -18,3 +18,4 @@ Additionally, React also paves the way for mobile app development through React 
 Its popularity is continuously soaring with its flexibility to integrate with other frameworks and scalability to accommodate growth. No wonder, React JS has garnered massive popularity and has turned into an essential tool in modern web development. 
 
 To put it succinctly, if you're not considering React JS, you might be missing out on the many wonders of efficient, responsive, and appealing web and mobile apps.
+
