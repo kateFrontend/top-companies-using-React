@@ -19,3 +19,8 @@ Its popularity is continuously soaring with its flexibility to integrate with ot
 
 To put it succinctly, if you're not considering React JS, you might be missing out on the many wonders of efficient, responsive, and appealing web and mobile apps.
 
+## ⚡ Learn React
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
